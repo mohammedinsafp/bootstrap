@@ -1,0 +1,29 @@
+.navbar-brand{
+	font-family: navbar-brand;
+}
+#nav{
+    color: #fff;
+    font-family: inherit;
+    font-weight: 700;
+    font-size: 14px;
+    padding-left: 5px;
+    white-space: nowrap;
+
+}
+.carousel-item{
+	height: 550px;
+	width: 100%;
+	padding: 5px;
+
+}
+.h11{
+	
+	text-align: center;
+	font-family: navbar-brand;
+}
+.h55{
+	padding: 5px;
+}
+.row{
+	margin-left: 80px;
+}
